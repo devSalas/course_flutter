@@ -14,6 +14,10 @@ class WeinFluThemes {
       bodyLarge: TextStyle(fontSize: 14.0),
       bodyMedium: TextStyle(fontSize: 13.0),
       bodySmall: TextStyle(fontSize: 10.0),
+      labelLarge: TextStyle(fontSize: 30.00,fontWeight: FontWeight.w400, color:WeinFluColors.brandPrimaryColor),
+      labelMedium: TextStyle(fontSize: 16.00,fontWeight: FontWeight.w400, color:WeinFluColors.brandLigthDarkColor),
+      labelSmall: TextStyle(fontSize: 16.00,fontWeight: FontWeight.bold, color:WeinFluColors.brandDarkColor),
+
     ),
 
   );
